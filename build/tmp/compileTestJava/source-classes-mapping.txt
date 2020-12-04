@@ -1,0 +1,18 @@
+starter/search/SearchForm.java
+ starter.search.SearchForm
+starter/search/SearchResult.java
+ starter.search.SearchResult
+starter/navigation/WordpressLoginPage.java
+ starter.navigation.WordpressLoginPage
+starter/CucumberTestSuite.java
+ starter.CucumberTestSuite
+starter/search/SearchResultList.java
+ starter.search.SearchResultList
+starter/stepdefinitions/SearchOnDuckDuckGoStepDefinitions.java
+ starter.stepdefinitions.SearchOnDuckDuckGoStepDefinitions
+starter/search/SearchFor.java
+ starter.search.SearchFor
+starter/matchers/StringContainsIgnoringCase.java
+ starter.matchers.StringContainsIgnoringCase
+starter/navigation/NavigateTo.java
+ starter.navigation.NavigateTo
